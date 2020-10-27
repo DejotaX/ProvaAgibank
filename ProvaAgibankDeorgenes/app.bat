@@ -1,0 +1,1 @@
+CALL java -cp application.jar com.prova.agibank.ProvaAgibankDeorgenes.Application
