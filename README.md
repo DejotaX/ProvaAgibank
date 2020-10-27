@@ -56,7 +56,8 @@
 
 # Configuration
 
-	- Neste projeto é possível configurar a taxa de leitura dos arquivos. Basta alterar o valor do parâmetro "TAXA_LEITURA_mSEGUNDO" em Util\ConstantsUtil.java.
+	- Neste projeto é possível configurar a taxa de leitura dos arquivos. Basta alterar o valor do parâmetro 
+	  "TAXA_LEITURA_mSEGUNDO" em Util\ConstantsUtil.java.
 	
 	- Atualmente o valor está configurado para 10 segundos. 
 	
