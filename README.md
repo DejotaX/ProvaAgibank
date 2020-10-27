@@ -40,9 +40,9 @@
  
 # Features
 
-	Este projeto executa, em uma taxa de 10 segundos, a leitura de todos os arquivos com a extensão ".bat" que estejam presentes dentro do 
-	diretório "HOMPATH\data\in", gerando um relatório no diretório "HOMEPATH\data\out" com os dados da quantidade de clientes, vendedores, 
-	o id da venda mais cara e o nome do pior vendedor.
+	Este projeto executa, em uma taxa de 10 segundos, a leitura de todos os arquivos com a extensão ".bat" que estejam presentes 
+	dentro do diretório "HOMPATH\data\in", gerando um relatório no diretório "HOMEPATH\data\out" com os dados da quantidade de 
+	clientes, vendedores, o id da venda mais cara e o nome do pior vendedor.
 	
 	Os dados de entrada estão no seguinte formato:
 	
